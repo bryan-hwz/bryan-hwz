@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan (@bryan-hwz).
 - 👀 I’m interested in economics and data analysis.
-- 🌱 I’m currently learning the Odin project.
+- 🌱 I’m currently taking the CS50’s Introduction to Computer Science.
 - 📫 How to reach me: zou.haiwen0529@gmail.com
 
 <!---
